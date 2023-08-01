@@ -1,0 +1,36 @@
+.hero {
+  background-image: url("https://cloudfront-us-east-2.images.arcpublishing.com/reuters/TXDGVXPBEVMY5PA2RHRF2EA25Y.jpg");
+  height: calc(100vh - 64px);
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* margin: 5vh auto 0; */
+  display: flex;
+  justify-content: center;
+  position: relative;
+  z-index: 0;
+}
+.hero h1 {
+  font-size: 48px;
+  margin-top: 190px;
+  color: white;
+  z-index: 2;
+}
+.backdrop {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 25%);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+@media only screen and (max-width: 768px) {
+  .hero {
+    height: 450px;
+    background-position: left;
+  }
+  .hero h1 {
+    font-size: 32px;
+  }
+}

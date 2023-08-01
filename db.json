@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike Air Zoom Structure 23",
+      "description": "The Nike Air Zoom Structure 23 provides a fast and secure feel with the support and durability runners crave.",
+      "price": 139.99,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/50e80b91-8efd-4f2d-8198-a1af2930b61e/air-zoom-structure-23-road-running-shoes-xM4LSB.png",
+      "category": "shoe"
+    },
+    {
+      "id": 2,
+      "title": "Nike Dri-FIT Men's Training T-Shirt",
+      "description": "The Nike Dri-FIT T-Shirt is made with sweat-wicking technology to help keep you dry and comfortable during your workout.",
+      "price": 34.99,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-7e3c41c5-2dff-4fbf-a39a-4c60d4c0e27a/dri-fit-training-t-shirt-LR2z2m.png",
+      "category": "t-shirt"
+    },
+    {
+      "id": 3,
+      "title": "Nike Sportswear Club Fleece Men's Pants",
+      "description": "The Nike Sportswear Club Fleece Pants are designed for all-day comfort and a classic look.",
+      "price": 49.99,
+      "image": "https://www.sneaker10.gr/1980387-product_medium/nike-m-nsw-club-pant-oh-bb.jpg",
+      "category": "pants"
+    },
+    {
+      "id": 4,
+      "title": "Nike Air Zoom Pegasus 38",
+      "description": "The Nike Air Zoom Pegasus 38 delivers the same fit and feel that runners love, with new responsive foam for maximum cushioning.",
+      "price": 119.99,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e2ff01fa-7e97-4536-b4f8-a9f21992cba3/pegasus-38-road-running-shoes-5HVSDm.png",
+      "category": "shoe"
+    },
+    {
+      "id": 5,
+      "title": "Nike Pro Women's 7/8 Training Leggings",
+      "description": "The Nike Pro Leggings are made with stretchy, sweat-wicking fabric to help keep you dry and comfortable during your workout.",
+      "price": 54.99,
+      "image": "https://static.nike.com/a/videos/t_PDP_1280_v1/f_auto,q_auto:eco,so_1.08/d96a8262-1708-4543-b50c-ff15daa950a4/pro-womens-high-waisted-7-8-training-leggings-with-pockets-W5zwLf.jpg",
+      "category": "pants"
+    },
+    {
+      "id": 6,
+      "title": "Nike React Infinity Run Flyknit 2",
+      "description": "The Nike React Infinity Run Flyknit 2 keeps you comfortable and secure with every step.",
+      "price": 159.99,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fee55abc-1ac5-4029-8260-3b9bebadef6f/react-infinity-2-womens-road-running-shoes-rfh6Z8.png",
+      "category": "shoe"
+    },
+    {
+      "id": 7,
+      "title": "Nike Sportswear Club Fleece Women's Pullover Hoodie",
+      "description": "The Nike Sportswear Club Fleece Hoodie is your classic everyday sweatshirt that's soft and warm for all-day comfort.",
+      "price": 69.99,
+      "image": "https://static.nike.com/a/videos/t_PDP_1280_v1/f_auto,q_auto:eco,so_8.37/57b05970-cc94-4cf0-89e3-5b9f6f7384b0/sportswear-club-fleece-pullover-hoodie-mgDrNz.jpg",
+      "category": "t-shirt"
+    },
+    {
+      "id": 8,
+      "title": "Nike Flex Stride Men's 5' Running Shorts",
+      "description": "The Nike Flex Stride Shorts are designed to keep you cool and comfortable on your run.",
+      "price": 39.99,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/871b4979-1d2e-487c-80e4-33204b543389/flex-stride-13cm-brief-running-shorts-Kf9sj8.png",
+      "category": "pants"
+    },
+    {
+      "id": 9,
+      "title": "Nike Air Force 1 '07",
+      "description": "The Nike Air Force 1 '07 is the b-ball OG that puts a fresh spin on what you know best: crisp leather, bold colors, and the perfect amount of flash.",
+      "price": 89.99,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3cc96f43-47b6-43cb-951d-d8f73bb2f912/air-force-1-07-mens-shoes-jBrhbr.png",
+      "category": "shoe"
+    },
+    {
+      "id": 10,
+      "title": "Nike Icon Clash Women's Medium-Support Sports Bra",
+      "description": "The Nike Icon Clash Sports Bra has a tight fit that's ideal for medium-impact sports like cycling, dance, and cardio classes.",
+      "price": 44.99,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/beaf29f9-9af5-4cd3-add4-43eea4331966/swoosh-icon-clash-womens-medium-support-1-piece-pad-longline-printed-sports-bra-9tB5JV.png",
+      "category": "t-shirt"
+    },
+    {
+      "id": 11,
+      "title": "Nike Sportswear Tech Fleece Men's Joggers",
+      "description": "The Nike Sportswear Tech Fleece Joggers give you a modern, streamlined look with the warmth of Nike Tech Fleece fabric.",
+      "price": 79.99,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/4d82c403-f3e4-4163-be2e-fa1d8a29902e/sportswear-tech-fleece-mens-joggers-4x29ft.png",
+      "category": "pants"
+    },
+    {
+      "id": 12,
+      "title": "Nike Air Zoom Structure 23",
+      "description": "The Nike Air Zoom Structure 23 provides a fast and secure feel with the support and durability runners crave.",
+      "price": 139.99,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/50e80b91-8efd-4f2d-8198-a1af2930b61e/air-zoom-structure-23-road-running-shoes-xM4LSB.png",
+      "category": "shoe"
+    },
+    {
+      "id": 13,
+      "title": "Air Jordan",
+      "description": "nice",
+      "price": 120.99,
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-7e3c41c5-2dff-4fbf-a39a-4c60d4c0e27a/dri-fit-training-t-shirt-LR2z2m.png",
+      "category": "shoe"
+    }
+  ]
+}
