@@ -14,7 +14,10 @@ const Pagination = () => {
   //!   console.log(...searchParams); //можно так развернуть
 
   useEffect(() => {
+    const currentParams = Object.fromEntries([...searchParams]);
+
     setSearchParams({
+      ...currentParams,
       _page: page.toString(),
       _limit: LIMIT.toString(),
     });

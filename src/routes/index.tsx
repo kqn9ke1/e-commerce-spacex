@@ -6,6 +6,7 @@ import BaseLayout from "../layouts/BaseLayout/BaseLayout";
 import AddProductPage from "../pages/AddProductPage/AddProductPage";
 import ProductDetailPage from "../pages/ProductDetailPage/ProductDetailPage";
 import EditProductPage from "../pages/EditProductPage/EditProductPage";
+import AuthPage from "../pages/AuthPage/AuthPage";
 
 const AppRoutes = () => {
   return (
@@ -17,7 +18,7 @@ const AppRoutes = () => {
         <Route path="/details/:id" element={<ProductDetailPage />} />
         <Route path="/edit/:id" element={<EditProductPage />} />
       </Route>
-      {/* <Route path="/" element={<BaseRoute {}/>}/> */}
+      <Route path="/auth" element={<AuthPage />} />
     </Routes>
   );
 };

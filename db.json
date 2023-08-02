@@ -5,8 +5,8 @@
       "title": "Nike Air Zoom Structure 23",
       "description": "The Nike Air Zoom Structure 23 provides a fast and secure feel with the support and durability runners crave.",
       "price": 139.99,
-      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/50e80b91-8efd-4f2d-8198-a1af2930b61e/air-zoom-structure-23-road-running-shoes-xM4LSB.png",
-      "category": "shoe"
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/50e80b91-8efd-4f2d-8198-a1af2930b61e/air-zoom-structure-23-road-running-shoess-xM4LSB.png",
+      "category": "shoes"
     },
     {
       "id": 2,
@@ -29,8 +29,8 @@
       "title": "Nike Air Zoom Pegasus 38",
       "description": "The Nike Air Zoom Pegasus 38 delivers the same fit and feel that runners love, with new responsive foam for maximum cushioning.",
       "price": 119.99,
-      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e2ff01fa-7e97-4536-b4f8-a9f21992cba3/pegasus-38-road-running-shoes-5HVSDm.png",
-      "category": "shoe"
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e2ff01fa-7e97-4536-b4f8-a9f21992cba3/pegasus-38-road-running-shoess-5HVSDm.png",
+      "category": "shoes"
     },
     {
       "id": 5,
@@ -45,8 +45,8 @@
       "title": "Nike React Infinity Run Flyknit 2",
       "description": "The Nike React Infinity Run Flyknit 2 keeps you comfortable and secure with every step.",
       "price": 159.99,
-      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fee55abc-1ac5-4029-8260-3b9bebadef6f/react-infinity-2-womens-road-running-shoes-rfh6Z8.png",
-      "category": "shoe"
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fee55abc-1ac5-4029-8260-3b9bebadef6f/react-infinity-2-womens-road-running-shoess-rfh6Z8.png",
+      "category": "shoes"
     },
     {
       "id": 7,
@@ -69,8 +69,8 @@
       "title": "Nike Air Force 1 '07",
       "description": "The Nike Air Force 1 '07 is the b-ball OG that puts a fresh spin on what you know best: crisp leather, bold colors, and the perfect amount of flash.",
       "price": 89.99,
-      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3cc96f43-47b6-43cb-951d-d8f73bb2f912/air-force-1-07-mens-shoes-jBrhbr.png",
-      "category": "shoe"
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/3cc96f43-47b6-43cb-951d-d8f73bb2f912/air-force-1-07-mens-shoess-jBrhbr.png",
+      "category": "shoes"
     },
     {
       "id": 10,
@@ -93,16 +93,16 @@
       "title": "Nike Air Zoom Structure 23",
       "description": "The Nike Air Zoom Structure 23 provides a fast and secure feel with the support and durability runners crave.",
       "price": 139.99,
-      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/50e80b91-8efd-4f2d-8198-a1af2930b61e/air-zoom-structure-23-road-running-shoes-xM4LSB.png",
-      "category": "shoe"
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/50e80b91-8efd-4f2d-8198-a1af2930b61e/air-zoom-structure-23-road-running-shoess-xM4LSB.png",
+      "category": "shoes"
     },
     {
       "id": 13,
       "title": "Air Jordan",
       "description": "nice",
       "price": 120.99,
-      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-7e3c41c5-2dff-4fbf-a39a-4c60d4c0e27a/dri-fit-training-t-shirt-LR2z2m.png",
-      "category": "shoe"
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e2ff01fa-7e97-4536-b4f8-a9f21992cba3/pegasus-38-road-running-shoess-5HVSDm.png",
+      "category": "shoes"
     }
   ]
 }

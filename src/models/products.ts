@@ -6,6 +6,6 @@ export type IProduct = {
   image: string;
   category: CategoryType;
 };
-export type CategoryType = "t-shirt" | "shoe" | "pants";
+export type CategoryType = "t-shirt" | "shoes" | "pants";
 
 export type ProductCreate = Omit<IProduct, "id">; //Pick<only one>

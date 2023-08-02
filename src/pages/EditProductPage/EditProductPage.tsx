@@ -151,7 +151,7 @@ const EditProductPage = () => {
                 onChange={handleChange}
               >
                 <MenuItem value={"t-shirt"}>T-shirt</MenuItem>
-                <MenuItem value={"shoe"}>Shoe</MenuItem>
+                <MenuItem value={"shoes"}>Shoe</MenuItem>
                 <MenuItem value={"pants"}>Pants</MenuItem>
               </Select>
             </FormControl>

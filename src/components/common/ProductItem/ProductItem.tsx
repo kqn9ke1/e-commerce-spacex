@@ -12,6 +12,8 @@ import {
 import { productContext } from "../../../contexts/ProductsContext/ProductsContext";
 import { ProductsContextType } from "../../../contexts/ProductsContext/types";
 import { Link } from "react-router-dom";
+import { authContext } from "../../../contexts/AuthContext/AuthContext";
+import { AuthContextTypes } from "../../../contexts/AuthContext/types";
 
 type ProductItemProps = {
   item: IProduct;
@@ -19,6 +21,8 @@ type ProductItemProps = {
 
 const ProductItem: FC<ProductItemProps> = ({ item }) => {
   const { deleteProduct } = useContext(productContext) as ProductsContextType;
+  const { isAdmin } = useContext(authContext) as AuthContextTypes;
+
   return (
     <Grid item xs={8} md={6} lg={3}>
       <Card>
@@ -45,12 +49,16 @@ const ProductItem: FC<ProductItemProps> = ({ item }) => {
           <Button component={Link} to={`/details/${item.id}`} size="small">
             Learn More
           </Button>
-          <Button component={Link} to={`/edit/${item.id}`} size="small">
-            Edit
-          </Button>
-          <Button onClick={() => deleteProduct(item.id)} size="small">
-            Delete
-          </Button>
+          {isAdmin() && (
+            <>
+              <Button component={Link} to={`/edit/${item.id}`} size="small">
+                Edit
+              </Button>
+              <Button onClick={() => deleteProduct(item.id)} size="small">
+                Delete
+              </Button>
+            </>
+          )}
         </CardActions>
       </Card>
     </Grid>
